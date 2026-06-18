@@ -25,7 +25,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com)
+<img src="https://vercel.app" alt="LeetCode Stats" />
 
 
 <picture>
