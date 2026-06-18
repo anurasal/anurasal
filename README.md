@@ -18,19 +18,13 @@
 # 📊 GitHub Stats:
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="300">
 <br><br>
+
 ![](https://github-readme-stats.shion.dev/api?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=anurasal&theme=radical&hide_border=false)<br/>
 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 💻 Coding Profiles
-
-* **LeetCode:** [://leetcode.com](https://://leetcode.com) 🚀
-* **GitHub:** [://github.com](https://://github.com) 🛠️
-
-_Click the links above to see my latest solved data structures and algorithms problems!_
 
 
 <picture>
