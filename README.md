@@ -19,6 +19,8 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="300">
 <br><br>
 
+[![LeetCode Stats](https://anushkarasal)](https://leetcode.com)
+
 ![](https://github-readme-stats.shion.dev/api?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=anurasal&theme=radical&hide_border=false)<br/>
