@@ -25,7 +25,12 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://vercel.app" alt="LeetCode Stats" />
+## 💻 Coding Profiles
+
+* **LeetCode:** [://leetcode.com](https://://leetcode.com) 🚀
+* **GitHub:** [://github.com](https://://github.com) 🛠️
+
+_Click the links above to see my latest solved data structures and algorithms problems!_
 
 
 <picture>
