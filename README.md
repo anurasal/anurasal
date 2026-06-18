@@ -2,9 +2,8 @@
 
 <h1 align="left">Hi 👋, I'm Anushka Rasal</h1>
 <h3 align="left">Programmer who enjoys solving problems and transforming ideas into real world projects</h3>
- <img src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="250" align="right">
-<img width="740" height="250" alt="image" src="https://github.com/user-attachments/assets/fbf13f20-e0f3-49a6-aefb-44432dd1be56" />
 
+<p align="center"> <img src="./Add a little bit of body text.png" width=100%> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurasal&label=Profile%20views&color=0e75b6&style=flat" alt="anurasal" /> </p>
 
 # 💫 About Me:
@@ -27,15 +26,14 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurasal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="2000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" width="1000" />
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 <br><br>
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anurasal&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=anurasal&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
