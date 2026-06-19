@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <h1 align="left">Hi 👋, I'm Anushka Rasal</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programmer+who+enjoys+solving+problems+and+transforming+ideas+into+real+world+projects" alt="Typing SVG" /></a>
 <h3 align="left">Programmer who enjoys solving problems and transforming ideas into real world projects</h3>
 
 <p align="center"> <img src="./Add a little bit of body text.png" width=100%> </p>
