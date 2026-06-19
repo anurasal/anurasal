@@ -7,7 +7,7 @@
 <p align="center"> <img src="./Add a little bit of body text.png" width=100%> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurasal&label=Profile%20views&color=0e75b6&style=flat" alt="anurasal" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF784&repeat=false&width=435&lines=Welcome+to+My+Profile!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5DF784&width=435&lines=Welcome+to+My+Profile!!+" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🔭 I’m currently working on real-world projects<br><br>🌱 I’m currently learning AI, Full Stack Development, and Software Engineering.<br><br>👯 I’m looking to collaborate on Open Source Projects and Innovative Tech Ideas.<br><br>🤝 I’m looking for help with Full Stack Development, Open Source Contributions, and Career Growth.<br><br>📫 How to reach me anushkarasal35@gmail.com
